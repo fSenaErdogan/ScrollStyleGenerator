@@ -7,7 +7,7 @@ const Preview = () => {
 
     return (
 
-        <div className="bg-white/10 h-full overflow-auto scroll-style p-12 rounded-lg">
+        <div className="bg-white/10 h-full overflow-auto scroll-style p-12 rounded-lg leading-8">
             <h1 className="text-3xl">
                 Lorem ipsum dolor sit amet
             </h1>
